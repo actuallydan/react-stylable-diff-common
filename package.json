@@ -1,0 +1,24 @@
+{
+  "name": "react-stylable-diff-common",
+  "version": "1.0.0",
+  "description": "CommonJS component based on react-stylable-diff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danknotdank/react-stylable-diff-common.git"
+  },
+"dependencies": {
+    "diff": "^1.2.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0"
+  },
+  "author": "David Mason <drdmason@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danknotdank/react-stylable-diff-common/issues"
+  },
+  "homepage": "https://github.com/danknotdank/react-stylable-diff-common#readme"
+}
