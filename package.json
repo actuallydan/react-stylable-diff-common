@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/danknotdank/react-stylable-diff-common.git"
   },
-"dependencies": {
-    "diff": "^1.2.0",
+  "dependencies": {
+    "diff": "^4.0.1",
     "prop-types": "^15.6.0",
     "react": "^16.0.0"
   },
